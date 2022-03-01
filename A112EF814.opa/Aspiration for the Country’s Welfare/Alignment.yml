@@ -1,0 +1,19 @@
+segment_sources:
+  PB7F9F2AE:
+    type: origin_type
+    relation: translation
+    language: en
+  PF866B0EE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a8f8882983b044d5896890287d3ad2eb:
+    PB7F9F2AE: 5d77164fa39d489abaf44c79250403d7
+    PF866B0EE: dffc240495af43958871a2f3fe4edc56
+  ac65e4b68ee94a1a82625b024e99ccc6:
+    PB7F9F2AE: f25ba9891389433597eccec4f3f4b041
+    PF866B0EE: 83a27f0f2be14a2ebd099171451c508b
+  1a14796b667c42a5880647720655c090:
+    PB7F9F2AE: e463d294e4bc46da964ec534e16ea205
+    PF866B0EE: e5b0904fdd74449a993ea5c6401747cc

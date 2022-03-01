@@ -1,0 +1,58 @@
+segment_sources:
+  PB7F9F2AE:
+    type: origin_type
+    relation: translation
+    language: en
+  PFE8048F4:
+    type: origin_type
+    relation: translation
+    language: de
+  P602148D1:
+    type: origin_type
+    relation: translation
+    language: es
+  P853773F4:
+    type: origin_type
+    relation: translation
+    language: fr
+  PF866B0EE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  baa637d406444ed3a9227892d6d9cd02:
+    PB7F9F2AE: 961ee469087744e798975cbf63bc1d29
+    PFE8048F4: 942db6bce3b041c792162b4ea8ff4758
+    P602148D1: 7e8c9e9612024b5996efc8c677570eea
+    P853773F4: c41fd606fdc14e96aec61026b8159620
+    PF866B0EE: 8383eefa52204624b765136eeeacd8e1
+  e9fa99d27f014f4091c51965e9fc9a0b:
+    PB7F9F2AE: 9be209266c634db0bf1325a5bc3c6784
+    PFE8048F4: a09ae3b4d9cc4d35b9c9c80f3145f994
+    P602148D1: 9a6333a14bab4132bc5a79caba9b9f41
+    P853773F4: c110d467a33e4a38983b67ced61dc098
+    PF866B0EE: 99489cf108934c8796dd269ec8a8eb2d
+  880357e672ac417e9dcbd0fcd7fc499b:
+    PB7F9F2AE: e430b769eabf4003b6baeaed82a70d19
+    PFE8048F4: b1772211834b47ecab73d0cbb1cc2c46
+    P602148D1: 3d3e65d27bc74d1d90d3ecb67b6bad6a
+    P853773F4: e35f3f50909c46c3a8deddb339286c20
+    PF866B0EE: 322cf82ab6944be0ac019e6d23d68e8f
+  79780b3929304d118cba28782e9655ac:
+    PB7F9F2AE: 6f2dfeda461a4f57b97229b607ae4c6f
+    PFE8048F4: 00de88591b9e404caec8b002f1a03956
+    P602148D1: 7e0f92dfd744478c9e8c1042994ac61a
+    P853773F4: 472c6a93aed44feb853d2e08700b2ec1
+    PF866B0EE: 9cd89f6d656c4e0392976ae23ca81d9f
+  67c0db0d84cf4e74bd52391ecac2dd4b:
+    PB7F9F2AE: fd019e9be15548f0b7ed24d75cb5beb6
+    PFE8048F4: bb20e130484c41c3b8491708e4dc1281
+    P602148D1: 453f35b73fce4b6a983b59f4195b2eda
+    P853773F4: e5c69af2ccc4460988fe2752a5476124
+    PF866B0EE: 3c867f4be91b46c98c0afe1083d28bb8
+  631c3824c85c49cc9d879ac1439790f9:
+    PB7F9F2AE: c5e5678b651844f4a4ab0d734fa9aa80
+    PFE8048F4: 08b997fa820946a5acf0c6f555a1b531
+    P602148D1: 16fcc343a6a349279792648bfdb27044
+    P853773F4: de4f1dafe62148f4ac9a694a7b256f78
+    PF866B0EE: a4d1c6c1eef646e8aa82bf05810ad70f
